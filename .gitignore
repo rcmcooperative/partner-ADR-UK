@@ -1,5 +1,6 @@
-# Project management files that should not be public
-.private/*
+# Directory of files which are agreed to remain private (local to admins) 
+private/
+private/*
 
 # OS dependent metadata files
 .DS_Store
