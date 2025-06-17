@@ -91,6 +91,12 @@ cassandra.gouldvanpraag@rcmcooperative.com
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+The following people who do not (yet!) have github accounts also need to be added:
+- [ ] Bogusia Wojciechowska (ADR) 
+- [ ] Karen Powell (ADR)
+- [ ] Emily Oliver (ADR)
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
